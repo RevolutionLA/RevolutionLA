@@ -43,11 +43,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RevolutionLA&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RevolutionLA&show_icons=true&theme=default&count_private=true" height="165" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=RevolutionLA&theme=github-dark-blue" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RevolutionLA" height="165" />
 </picture>
