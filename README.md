@@ -43,8 +43,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RevolutionLA&show_icons=true&theme=github_dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RevolutionLA&show_icons=true&theme=default&count_private=true" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=RevolutionLA&show_icons=true&theme=github_dark&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RevolutionLA&show_icons=true&theme=default&count_private=true" height="165" />
 </picture>
 
 <picture>
@@ -53,8 +53,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RevolutionLA&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RevolutionLA&layout=compact" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RevolutionLA&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RevolutionLA&layout=compact" height="165" />
 </picture>
 
 </div>
@@ -80,8 +80,6 @@
 ---
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/github-contribution-grid-snake.svg" alt="" width="600" />
 
 *Keep it simple. Keep it real.*
 
