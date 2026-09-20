@@ -50,6 +50,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RevolutionLA" height="165" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RevolutionLA&layout=compact&theme=github_dark&langs_count=8" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RevolutionLA&layout=compact&theme=default&langs_count=8" height="165" />
+</picture>
+
 </div>
 
 ## 精选项目 / Featured Projects
@@ -57,32 +62,41 @@
 > 做得少，但每一件都做透。
 
 <a href="https://github.com/RevolutionLA/dsh-dream-skin">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=dsh-dream-skin&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=dsh-dream-skin&theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=dsh-dream-skin&theme=default" height="150" />
+  </picture>
 </a>
 <a href="https://github.com/RevolutionLA/AscendMate">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=AscendMate&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=AscendMate&theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=AscendMate&theme=default" height="150" />
+  </picture>
 </a>
 <a href="https://github.com/RevolutionLA/ascend-assistant">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=ascend-assistant&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=ascend-assistant&theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=ascend-assistant&theme=default" height="150" />
+  </picture>
 </a>
 <a href="https://github.com/RevolutionLA/adversarial-review">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=adversarial-review&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=adversarial-review&theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=adversarial-review&theme=default" height="150" />
+  </picture>
 </a>
 <a href="https://github.com/RevolutionLA/YuE2-Music-Workbench">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=YuE2-Music-Workbench&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=YuE2-Music-Workbench&theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=YuE2-Music-Workbench&theme=default" height="150" />
+  </picture>
 </a>
 <a href="https://github.com/RevolutionLA/OpenKidCar">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=github_dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=default" height="150" />
+  </picture>
 </a>
-
-| 项目 | 亮点 |
-|---|---|
-| [dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) | ⭐ 171 · DeepSeek Harness 换肤插件：纯原生实现（无注入、不改安装包），8 套 Mirage 主题 + 主题包分享生态 |
-| [AscendMate](https://github.com/RevolutionLA/AscendMate) | 昇腾部署手册：环境搭建 / 微调 / 推理 / 算子开发，一线实践沉淀 |
-| [ascend-assistant](https://github.com/RevolutionLA/ascend-assistant) | 昇腾服务器 Agent Skill：让 AI 直接操作、排障昇腾环境，与 AscendMate 联动 |
-| [adversarial-review](https://github.com/RevolutionLA/adversarial-review) | 三方对抗式代码评审 Skill：蓝军 → 第三方 → 裁定的结构化评审闭环 |
-| [YuE2-Music-Workbench](https://github.com/RevolutionLA/YuE2-Music-Workbench) | 本地 AI 音乐生成工作站：写词写曲演唱 / 翻唱改词 / RVC 换声 / 批量生成，大陆网络开箱即用 |
-| [OpenKidCar](https://github.com/RevolutionLA/OpenKidCar) | 开源硬件小车：硬件、固件、电路到软件，全程开源 |
 
 ## 联系我 / Contact
 
