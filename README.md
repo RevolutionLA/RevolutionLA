@@ -57,47 +57,6 @@
 
 </div>
 
-## 精选项目 / Featured Projects
-
-> 做得少，但每一件都做透。
-
-<a href="https://github.com/RevolutionLA/dsh-dream-skin">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=dsh-dream-skin&theme=github_dark" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=dsh-dream-skin&theme=default" height="150" />
-  </picture>
-</a>
-<a href="https://github.com/RevolutionLA/AscendMate">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=AscendMate&theme=github_dark" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=AscendMate&theme=default" height="150" />
-  </picture>
-</a>
-<a href="https://github.com/RevolutionLA/ascend-assistant">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=ascend-assistant&theme=github_dark" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=ascend-assistant&theme=default" height="150" />
-  </picture>
-</a>
-<a href="https://github.com/RevolutionLA/adversarial-review">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=adversarial-review&theme=github_dark" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=adversarial-review&theme=default" height="150" />
-  </picture>
-</a>
-<a href="https://github.com/RevolutionLA/YuE2-Music-Workbench">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=YuE2-Music-Workbench&theme=github_dark" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=YuE2-Music-Workbench&theme=default" height="150" />
-  </picture>
-</a>
-<a href="https://github.com/RevolutionLA/OpenKidCar">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=github_dark&v=2" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=default&v=2" height="150" />
-  </picture>
-</a>
-
 ## 联系我 / Contact
 
 <div align="center">
