@@ -68,6 +68,9 @@
 <a href="https://github.com/RevolutionLA/adversarial-review">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=adversarial-review&theme=github_dark" />
 </a>
+<a href="https://github.com/RevolutionLA/YuE2-Music-Workbench">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=YuE2-Music-Workbench&theme=github_dark" />
+</a>
 <a href="https://github.com/RevolutionLA/OpenKidCar">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=github_dark" />
 </a>
@@ -78,6 +81,7 @@
 | [AscendMate](https://github.com/RevolutionLA/AscendMate) | 昇腾部署手册：环境搭建 / 微调 / 推理 / 算子开发，一线实践沉淀 |
 | [ascend-assistant](https://github.com/RevolutionLA/ascend-assistant) | 昇腾服务器 Agent Skill：让 AI 直接操作、排障昇腾环境，与 AscendMate 联动 |
 | [adversarial-review](https://github.com/RevolutionLA/adversarial-review) | 三方对抗式代码评审 Skill：蓝军 → 第三方 → 裁定的结构化评审闭环 |
+| [YuE2-Music-Workbench](https://github.com/RevolutionLA/YuE2-Music-Workbench) | 本地 AI 音乐生成工作站：写词写曲演唱 / 翻唱改词 / RVC 换声 / 批量生成，大陆网络开箱即用 |
 | [OpenKidCar](https://github.com/RevolutionLA/OpenKidCar) | 开源硬件小车：硬件、固件、电路到软件，全程开源 |
 
 ## 联系我 / Contact
