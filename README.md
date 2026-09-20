@@ -93,8 +93,8 @@
 </a>
 <a href="https://github.com/RevolutionLA/OpenKidCar">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=github_dark" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=default" height="150" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=github_dark&v=2" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=default&v=2" height="150" />
   </picture>
 </a>
 
