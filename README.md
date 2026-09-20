@@ -57,19 +57,19 @@
 > 做得少，但每一件都做透。
 
 <a href="https://github.com/RevolutionLA/dsh-dream-skin">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RevolutionLA&repo=dsh-dream-skin&theme=github_dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=dsh-dream-skin&theme=github_dark" />
 </a>
 <a href="https://github.com/RevolutionLA/AscendMate">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RevolutionLA&repo=AscendMate&theme=github_dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=AscendMate&theme=github_dark" />
 </a>
 <a href="https://github.com/RevolutionLA/ascend-assistant">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RevolutionLA&repo=ascend-assistant&theme=github_dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=ascend-assistant&theme=github_dark" />
 </a>
 <a href="https://github.com/RevolutionLA/adversarial-review">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RevolutionLA&repo=adversarial-review&theme=github_dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=adversarial-review&theme=github_dark" />
 </a>
 <a href="https://github.com/RevolutionLA/OpenKidCar">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=github_dark" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=RevolutionLA&repo=OpenKidCar&theme=github_dark" />
 </a>
 
 | 项目 | 亮点 |
