@@ -23,13 +23,38 @@
 - 🧩 **开源插件**：为常用工具做克制、耐用的增强
 - 📐 **底层功底**：嵌入式、硬件电路与计算机体系结构
 
+**EN** — I work across hardware and software, but I go deepest on AI. Six years of R&D at Huawei took me from embedded systems and FPGAs to LLM deployment, quantization tuning and cloud service architecture. Today I focus on **private LLM deployment** and the **Ascend ecosystem**, and I spend my evenings writing restrained, durable open-source plugins for tools people already use.
+
+## 开源作品 / What I Ship
+
+| 项目 · Project | | 一句话 · What it does |
+|---|---|---|
+| [**dsh-dream-skin**](https://github.com/RevolutionLA/dsh-dream-skin) | [![stars](https://img.shields.io/github/stars/RevolutionLA/dsh-dream-skin?style=social)](https://github.com/RevolutionLA/dsh-dream-skin) | DeepSeek Harness 换肤 / 主题包插件，8 套 Mirage 主题，纯 token 系统实现 · Skin, wallpaper & theme-pack engine for DeepSeek Harness |
+| [**adversarial-review**](https://github.com/RevolutionLA/adversarial-review) | [![stars](https://img.shields.io/github/stars/RevolutionLA/adversarial-review?style=social)](https://github.com/RevolutionLA/adversarial-review) | 三方对抗式代码评审 Agent Skill，每条结论带证据链 · Tri-role adversarial code review for AI coding agents |
+| [**awesome-YuE**](https://github.com/RevolutionLA/awesome-YuE) | [![stars](https://img.shields.io/github/stars/RevolutionLA/awesome-YuE?style=social)](https://github.com/RevolutionLA/awesome-YuE) | YuE / YuE2 开源音乐生成资源清单 · Curated list for open-source music generation |
+| [**AscendMate**](https://github.com/RevolutionLA/AscendMate) | [![stars](https://img.shields.io/github/stars/RevolutionLA/AscendMate?style=social)](https://github.com/RevolutionLA/AscendMate) | 昇腾部署易用一指禅：环境、微调、推理、算子手册 · Ascend deployment field guide |
+
 ## 技术栈 / Tech Stack
 
 <div align="center">
 
-<a href="https://skillicons.dev">
+<a href="https://github.com/RevolutionLA/adversarial-review#安装">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,linux,docker,kubernetes,nginx,git,githubactions,fastapi,raspberrypi,arduino&perline=7" />
 </a>
+
+<br/>
+<br/>
+
+[![Agent Skill · adversarial-review](https://img.shields.io/badge/Agent_Skill-adversarial__review-1e3c72?style=flat-square&logo=github&logoColor=white)](https://github.com/RevolutionLA/adversarial-review) [![npx%20skills%20add](https://img.shields.io/badge/npx_skills_add_RevolutionLA%2Fadversarial--review-2ea44f?style=flat-square&logo=npm&logoColor=white)](https://github.com/RevolutionLA/adversarial-review#安装)
+
+<details>
+<summary>一行命令装上我的三方对抗式评审 Skill · One-line install</summary>
+
+```bash
+npx skills add RevolutionLA/adversarial-review -a claude-code -a cursor -a opencode
+```
+
+</details>
 
 <br/>
 
@@ -41,19 +66,14 @@
 
 </div>
 
-## GitHub 统计 / Stats
+## 数字 / By the Numbers
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=RevolutionLA&theme=github-dark-blue" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RevolutionLA" height="165" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RevolutionLA&layout=compact&theme=github_dark&langs_count=8" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RevolutionLA&layout=compact&theme=default&langs_count=8" height="165" />
-</picture>
+[![total stars](https://img.shields.io/github/stars/RevolutionLA?style=flat-square&label=total%20stars&color=1e3c72)](https://github.com/RevolutionLA?tab=repositories&q=sort%3Astars)
+[![followers](https://img.shields.io/github/followers/RevolutionLA?style=flat-square&label=followers&color=2a5298)](https://github.com/RevolutionLA?tab=followers)
+[![dsh-dream-skin users](https://img.shields.io/github/contributors/RevolutionLA/dsh-dream-skin?style=flat-square&label=plugin%20contributors&color=ffd33d)](https://github.com/RevolutionLA/dsh-dream-skin/graphs/contributors)
+[![last release](https://img.shields.io/github/v/release/RevolutionLA/dsh-dream-skin?style=flat-square&label=latest%20release&color=2ea44f)](https://github.com/RevolutionLA/dsh-dream-skin/releases)
 
 </div>
 
