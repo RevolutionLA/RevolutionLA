@@ -27,12 +27,19 @@
 
 ## 开源作品 / What I Ship
 
-| 项目 · Project | | 一句话 · What it does |
-|---|---|---|
-| [**dsh-dream-skin**](https://github.com/RevolutionLA/dsh-dream-skin) | [![stars](https://img.shields.io/github/stars/RevolutionLA/dsh-dream-skin?style=social)](https://github.com/RevolutionLA/dsh-dream-skin) | DeepSeek Harness 换肤 / 主题包插件，8 套 Mirage 主题，纯 token 系统实现 · Skin, wallpaper & theme-pack engine for DeepSeek Harness |
-| [**adversarial-review**](https://github.com/RevolutionLA/adversarial-review) | [![stars](https://img.shields.io/github/stars/RevolutionLA/adversarial-review?style=social)](https://github.com/RevolutionLA/adversarial-review) | 三方对抗式代码评审 Agent Skill，每条结论带证据链 · Tri-role adversarial code review for AI coding agents |
-| [**awesome-YuE**](https://github.com/RevolutionLA/awesome-YuE) | [![stars](https://img.shields.io/github/stars/RevolutionLA/awesome-YuE?style=social)](https://github.com/RevolutionLA/awesome-YuE) | YuE / YuE2 开源音乐生成资源清单 · Curated list for open-source music generation |
-| [**AscendMate**](https://github.com/RevolutionLA/AscendMate) | [![stars](https://img.shields.io/github/stars/RevolutionLA/AscendMate?style=social)](https://github.com/RevolutionLA/AscendMate) | 昇腾部署易用一指禅：环境、微调、推理、算子手册 · Ascend deployment field guide |
+九个仓库、五条产品线；完整介绍与在线演示都在 **[revolutionla.github.io](https://revolutionla.github.io/)**。
+
+| 项目 · Project | 方向 | 一句话 · What it does | ★ |
+|---|---|---|---|
+| [**dsh-dream-skin**](https://github.com/RevolutionLA/dsh-dream-skin) · [demo](https://revolutionla.github.io/dsh-dream-skin/) | `DSH` | DeepSeek Harness 换肤 / 主题包插件，8 套 Mirage 主题，纯 token 系统实现 · Skin, wallpaper & theme-pack engine for DeepSeek Harness | [![s](https://img.shields.io/github/stars/RevolutionLA/dsh-dream-skin?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/dsh-dream-skin) |
+| [**awesome-dsh-plugin**](https://github.com/RevolutionLA/awesome-dsh-plugin) | `DSH` | DSH 插件 / 主题 / 工具链生态清单，在 fork 上持续策展，领先上游 1400+ 次提交 · Curated DSH ecosystem, 1400+ commits ahead of upstream | [![s](https://img.shields.io/github/stars/RevolutionLA/awesome-dsh-plugin?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/awesome-dsh-plugin) |
+| [**adversarial-review**](https://github.com/RevolutionLA/adversarial-review) | `Agent` | 三方对抗式代码评审 Agent Skill，每条结论带证据链 · Tri-role adversarial code review for AI coding agents | [![s](https://img.shields.io/github/stars/RevolutionLA/adversarial-review?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/adversarial-review) |
+| [**ascend-assistant**](https://github.com/RevolutionLA/ascend-assistant) | `昇腾` | 用 AI 操作、查询、排障昇腾智算服务器的 Agent Skill · Agent skill that operates and debugs Ascend servers | [![s](https://img.shields.io/github/stars/RevolutionLA/ascend-assistant?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/ascend-assistant) |
+| [**AscendMate**](https://github.com/RevolutionLA/AscendMate) | `昇腾` | 昇腾部署易用一指禅：环境、微调、推理、算子手册 · Ascend deployment field guide | [![s](https://img.shields.io/github/stars/RevolutionLA/AscendMate?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/AscendMate) |
+| [**YuE2-Music-Workbench**](https://github.com/RevolutionLA/YuE2-Music-Workbench) | `音乐` | 100% 离线的本地 AI 音乐工作站：写歌 + 翻唱 + 换声 + 滚动歌词 · Offline local AI music workstation, a free Suno alternative | [![s](https://img.shields.io/github/stars/RevolutionLA/YuE2-Music-Workbench?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/YuE2-Music-Workbench) |
+| [**awesome-YuE**](https://github.com/RevolutionLA/awesome-YuE) | `音乐` | YuE / YuE2 开源音乐生成资源清单，收录近 70 个项目 · Curated list for open-source music generation | [![s](https://img.shields.io/github/stars/RevolutionLA/awesome-YuE?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/awesome-YuE) |
+| [**OpenKidCar**](https://github.com/RevolutionLA/OpenKidCar) | `硬件` | 全程开源的亲子创客玩具车「干杯一号」，硬件到软件都归你 · Fully open-source smart car kids can build themselves | [![s](https://img.shields.io/github/stars/RevolutionLA/OpenKidCar?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/OpenKidCar) |
+| [**shijing**](https://github.com/RevolutionLA/shijing) | `数据` | 用 Python 统计《诗经》全文用字概率，输出字云与词云 · Character-frequency analysis of the *Book of Songs* | [![s](https://img.shields.io/github/stars/RevolutionLA/shijing?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/shijing) |
 
 ## 技术栈 / Tech Stack
 
