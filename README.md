@@ -27,12 +27,12 @@ I work across hardware and software, but I go deepest on AI. Six years of R&D at
 
 ## 开源作品 / What I Ship
 
-九个仓库、五条产品线；完整介绍与在线演示都在 **[revolutionla.github.io](https://revolutionla.github.io/)**。
+九个仓库都在下面，按方向分组；完整介绍与在线演示都在 **[revolutionla.github.io](https://revolutionla.github.io/)**。
 
 | 项目 · Project | 方向 | 一句话 · What it does | ★ |
 |---|---|---|---|
 | [**dsh-dream-skin**](https://github.com/RevolutionLA/dsh-dream-skin) · [demo](https://revolutionla.github.io/dsh-dream-skin/) | `DSH` | DeepSeek Harness 换肤 / 主题包插件，8 套 Mirage 主题，纯 token 系统实现 · Skin, wallpaper & theme-pack engine for DeepSeek Harness | [![s](https://img.shields.io/github/stars/RevolutionLA/dsh-dream-skin?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/dsh-dream-skin) |
-| [**awesome-dsh-plugin**](https://github.com/RevolutionLA/awesome-dsh-plugin) | `DSH` | DSH 插件 / 主题 / 工具链生态清单，在 fork 上持续策展，领先上游 1400+ 次提交 · Curated DSH ecosystem, 1400+ commits ahead of upstream | [![s](https://img.shields.io/github/stars/RevolutionLA/awesome-dsh-plugin?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/awesome-dsh-plugin) |
+| [**call-recording-archive**](https://github.com/RevolutionLA/call-recording-archive) | `本地 AI` | 把散落的通话录音变成本地话务台：全文检索、按人按时间统计、关系图谱、音色克隆导出，100% 离线零上云 · Local-first archive for call recordings — search, stats, relation graph, FunASR powered | [![s](https://img.shields.io/github/stars/RevolutionLA/call-recording-archive?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/call-recording-archive) |
 | [**adversarial-review**](https://github.com/RevolutionLA/adversarial-review) | `Agent` | 三方对抗式代码评审 Agent Skill，每条结论带证据链 · Tri-role adversarial code review for AI coding agents | [![s](https://img.shields.io/github/stars/RevolutionLA/adversarial-review?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/adversarial-review) |
 | [**ascend-assistant**](https://github.com/RevolutionLA/ascend-assistant) | `昇腾` | 用 AI 操作、查询、排障昇腾智算服务器的 Agent Skill · Agent skill that operates and debugs Ascend servers | [![s](https://img.shields.io/github/stars/RevolutionLA/ascend-assistant?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/ascend-assistant) |
 | [**AscendMate**](https://github.com/RevolutionLA/AscendMate) | `昇腾` | 昇腾部署易用一指禅：环境、微调、推理、算子手册 · Ascend deployment field guide | [![s](https://img.shields.io/github/stars/RevolutionLA/AscendMate?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/AscendMate) |
