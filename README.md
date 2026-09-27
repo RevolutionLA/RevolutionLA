@@ -23,7 +23,7 @@
 - 🧩 **开源插件**：为常用工具做克制、耐用的增强
 - 📐 **底层功底**：嵌入式、硬件电路与计算机体系结构
 
-**EN** — I work across hardware and software, but I go deepest on AI. Six years of R&D at Huawei took me from embedded systems and FPGAs to LLM deployment, quantization tuning and cloud service architecture. Today I focus on **private LLM deployment** and the **Ascend ecosystem**, and I spend my evenings writing restrained, durable open-source plugins for tools people already use.
+I work across hardware and software, but I go deepest on AI. Six years of R&D at Huawei took me from embedded systems and FPGAs to LLM deployment, quantization tuning and cloud service architecture. Today I focus on **private LLM deployment** and the **Ascend ecosystem**, and I spend my evenings writing restrained, durable open-source plugins for tools people already use.
 
 ## 开源作品 / What I Ship
 
