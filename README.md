@@ -14,25 +14,13 @@
 
 </div>
 
-<img src="./image/og-image.png" width="320" alt="RevolutionLA 的分享封面：深空网格与信号绿波形" align="right" />
-
 <div align="center">
 
-> <p align="left"><em>
->     <br>
->     "The best way to predict the future is to invent it."
->     <br>
->     预测未来的最好方式，是把它亲手造出来。
-> </em></p>
-> <p align="right">&mdash;&mdash; Alan Kay</p>
+> **"The best way to predict the future is to invent it."**
+> 预测未来的最好方式，是把它亲手造出来。 — *Alan Kay*
 >
-> <p align="left"><em>
->     <br>
->     "Talk is cheap. Show me the code."
->     <br>
->     空谈无益，把代码摆上来。
-> </em></p>
-> <p align="right">&mdash;&mdash; Linus Torvalds</p>
+> **"Talk is cheap. Show me the code."**
+> 空谈无益，把代码摆上来。 — *Linus Torvalds*
 
 </div>
 
@@ -123,10 +111,20 @@ npx skills add RevolutionLA/adversarial-review -a claude-code -a cursor -a openc
       <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/metrics.left.svg" alt="账号概览与活动统计 · account overview and activity" width="100%">
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/metrics.right.svg" alt="语言占比、贡献日历与连击 · languages, calendar and streaks" width="100%">
+      <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/metrics.right.svg" alt="贡献日历、连击与每日提交 · contributions calendar, streaks and per-day commits" width="100%">
     </td>
   </tr>
 </table>
+
+## 主页 / The Site
+
+<div align="center">
+
+<a href="https://revolutionla.github.io/"><img src="./image/og-image.png" width="100%" alt="revolutionla.github.io 分享封面：深空网格、信号绿波形与「刘昂 / RevolutionLA」" /></a>
+
+<sub>点图直达 <b>revolutionla.github.io</b> · 十个项目、star 读数与在线演示都在那里</sub>
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=RevolutionLA&color=1e3c72&style=flat-square)
 
