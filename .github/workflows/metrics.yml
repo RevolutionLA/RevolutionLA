@@ -1,0 +1,68 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  # lowlighter/metrics needs a PAT; GITHUB_TOKEN cannot read the account's own
+  # repository list. Without this gate a missing secret turns into two red runs
+  # every day, which is worse than no panel at all.
+  token-gate:
+    runs-on: ubuntu-latest
+    outputs:
+      has-token: ${{ steps.check.outputs.has-token }}
+    steps:
+      - name: Is METRICS_TOKEN configured?
+        id: check
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: |
+          if [ -n "$METRICS_TOKEN" ]; then
+            echo "has-token=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "has-token=no" >> "$GITHUB_OUTPUT"
+            echo "::notice title=Metrics skipped::Add a classic PAT with public_repo scope as the secret METRICS_TOKEN to render the panels."
+          fi
+
+  metrics-left:
+    needs: token-gate
+    if: needs.token-gate.outputs.has-token == 'yes'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: General metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: metrics.left.svg
+          committer_branch: output
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+
+  metrics-right:
+    needs: token-gate
+    if: needs.token-gate.outputs.has-token == 'yes'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Iso calendar and languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: metrics.right.svg
+          committer_branch: output
+          base: ""
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          config_timezone: Asia/Shanghai
