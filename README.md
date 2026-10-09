@@ -14,6 +14,28 @@
 
 </div>
 
+<img src="./image/og-image.png" width="320" alt="RevolutionLA 的分享封面：深空网格与信号绿波形" align="right" />
+
+<div align="center">
+
+> <p align="left"><em>
+>     <br>
+>     "The best way to predict the future is to invent it."
+>     <br>
+>     预测未来的最好方式，是把它亲手造出来。
+> </em></p>
+> <p align="right">&mdash;&mdash; Alan Kay</p>
+>
+> <p align="left"><em>
+>     <br>
+>     "Talk is cheap. Show me the code."
+>     <br>
+>     空谈无益，把代码摆上来。
+> </em></p>
+> <p align="right">&mdash;&mdash; Linus Torvalds</p>
+
+</div>
+
 ## 关于我 / About
 
 软硬件都碰一点，AI 投入最深。六年华为研发经历，从嵌入式与 FPGA 一路做到大模型部署调优与云服务架构；现在聚焦 **LLM 私有化部署** 与 **昇腾（Ascend）生态落地**，业余时间写一些让工具更好用的开源插件。
@@ -87,6 +109,26 @@ npx skills add RevolutionLA/adversarial-review -a claude-code -a cursor -a openc
 [![last release](https://img.shields.io/github/v/release/RevolutionLA/dsh-dream-skin?style=flat-square&label=latest%20release&color=2ea44f)](https://github.com/RevolutionLA/dsh-dream-skin/releases)
 
 </div>
+
+## 活动 / Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub 贡献网格每日重放 · contribution grid replay" />
+</picture>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/metrics.left.svg" alt="账号概览与活动统计 · account overview and activity" width="100%">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/metrics.right.svg" alt="语言占比、贡献日历与连击 · languages, calendar and streaks" width="100%">
+    </td>
+  </tr>
+</table>
+
+![](https://komarev.com/ghpvc/?username=RevolutionLA&color=1e3c72&style=flat-square)
 
 ## 联系我 / Contact
 
