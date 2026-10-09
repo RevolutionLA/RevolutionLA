@@ -27,10 +27,11 @@ I work across hardware and software, but I go deepest on AI. Six years of R&D at
 
 ## 开源作品 / What I Ship
 
-九个仓库都在下面，按方向分组；完整介绍与在线演示都在 **[revolutionla.github.io](https://revolutionla.github.io/)**。
+十个仓库都在下面，按方向分组；完整介绍与在线演示都在 **[revolutionla.github.io](https://revolutionla.github.io/)**。
 
 | 项目 · Project | 方向 | 一句话 · What it does | ★ |
 |---|---|---|---|
+| [**nextless**](https://github.com/RevolutionLA/nextless) · [deb](https://github.com/RevolutionLA/nextless/releases) | `输入法` | fcitx5 按住说话语音输入：触发键随便改（右 Ctrl 就行）、离线中英识别 Zipformer/FireRed、本地标点、错词修正表、`.deb` 一键装，基准带原始数据公开 · Typeless-style push-to-talk dictation for Linux: rebindable trigger key, offline zh/en ASR, local punctuation, mishearing fixes, one-command install | [![s](https://img.shields.io/github/stars/RevolutionLA/nextless?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/nextless) |
 | [**dsh-dream-skin**](https://github.com/RevolutionLA/dsh-dream-skin) · [demo](https://revolutionla.github.io/dsh-dream-skin/) | `DSH` | DeepSeek Harness 换肤 / 主题包插件，8 套 Mirage 主题，纯 token 系统实现 · Skin, wallpaper & theme-pack engine for DeepSeek Harness | [![s](https://img.shields.io/github/stars/RevolutionLA/dsh-dream-skin?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/dsh-dream-skin) |
 | [**call-recording-archive**](https://github.com/RevolutionLA/call-recording-archive) | `本地 AI` | 把散落的通话录音变成本地话务台：全文检索、按人按时间统计、关系图谱、音色克隆导出，100% 离线零上云 · Local-first archive for call recordings — search, stats, relation graph, FunASR powered | [![s](https://img.shields.io/github/stars/RevolutionLA/call-recording-archive?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/call-recording-archive) |
 | [**adversarial-review**](https://github.com/RevolutionLA/adversarial-review) | `Agent` | 三方对抗式代码评审 Agent Skill，每条结论带证据链 · Tri-role adversarial code review for AI coding agents | [![s](https://img.shields.io/github/stars/RevolutionLA/adversarial-review?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/adversarial-review) |
@@ -40,6 +41,9 @@ I work across hardware and software, but I go deepest on AI. Six years of R&D at
 | [**awesome-YuE**](https://github.com/RevolutionLA/awesome-YuE) | `音乐` | YuE / YuE2 开源音乐生成资源清单，收录近 70 个项目 · Curated list for open-source music generation | [![s](https://img.shields.io/github/stars/RevolutionLA/awesome-YuE?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/awesome-YuE) |
 | [**OpenKidCar**](https://github.com/RevolutionLA/OpenKidCar) | `硬件` | 全程开源的亲子创客玩具车「干杯一号」，硬件到软件都归你 · Fully open-source smart car kids can build themselves | [![s](https://img.shields.io/github/stars/RevolutionLA/OpenKidCar?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/OpenKidCar) |
 | [**shijing**](https://github.com/RevolutionLA/shijing) | `数据` | 用 Python 统计《诗经》全文用字概率，输出字云与词云 · Character-frequency analysis of the *Book of Songs* | [![s](https://img.shields.io/github/stars/RevolutionLA/shijing?style=flat-square&color=1e3c72)](https://github.com/RevolutionLA/shijing) |
+
+> **上游贡献 · Upstream** — 自有仓库之外，我是 [yu1745/wetype-ime-linux](https://github.com/yu1745/wetype-ime-linux)（微信输入法 Linux 版）的 **#2 贡献者**：整页候选翻页并跟随 fcitx5 全局设置、候选词英文释义、上下文智能标点，7 个已合并提交。
+> Beyond my own repos, I'm the **#2 contributor** to [yu1745/wetype-ime-linux](https://github.com/yu1745/wetype-ime-linux) (WeChat IME on Linux): global-following candidate paging, per-candidate English glosses, context-aware smart punctuation — 7 merged commits.
 
 ## 技术栈 / Tech Stack
 
