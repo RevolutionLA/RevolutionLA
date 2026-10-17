@@ -90,17 +90,17 @@ npx skills add RevolutionLA/adversarial-review -a claude-code -a cursor -a openc
 ## 活动 / Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub 贡献网格每日重放 · contribution grid replay" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RevolutionLA/RevolutionLA@output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/RevolutionLA/RevolutionLA@output/github-contribution-grid-snake.svg" width="100%" alt="GitHub 贡献网格每日重放 · contribution grid replay" />
 </picture>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/metrics.left.svg" alt="账号概览与活动统计 · account overview and activity" width="100%">
+      <img src="https://cdn.jsdelivr.net/gh/RevolutionLA/RevolutionLA@output/metrics.left.svg" alt="账号概览与活动统计 · account overview and activity" width="100%">
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/RevolutionLA/RevolutionLA/output/metrics.right.svg" alt="贡献日历、连击与每日提交 · contributions calendar, streaks and per-day commits" width="100%">
+      <img src="https://cdn.jsdelivr.net/gh/RevolutionLA/RevolutionLA@output/metrics.right.svg" alt="贡献日历、连击与每日提交 · contributions calendar, streaks and per-day commits" width="100%">
     </td>
   </tr>
 </table>
