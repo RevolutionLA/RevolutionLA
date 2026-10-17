@@ -87,17 +87,6 @@ npx skills add RevolutionLA/adversarial-review -a claude-code -a cursor -a openc
 
 </div>
 
-## 数字 / By the Numbers
-
-<div align="center">
-
-[![total stars](https://img.shields.io/github/stars/RevolutionLA?style=flat-square&label=total%20stars&color=1e3c72)](https://github.com/RevolutionLA?tab=repositories&q=sort%3Astars)
-[![followers](https://img.shields.io/github/followers/RevolutionLA?style=flat-square&label=followers&color=2a5298)](https://github.com/RevolutionLA?tab=followers)
-[![dsh-dream-skin users](https://badgen.net/github/contributors/RevolutionLA/dsh-dream-skin?label=plugin%20contributors&color=ffd33d)](https://github.com/RevolutionLA/dsh-dream-skin/graphs/contributors)
-[![last release](https://img.shields.io/github/v/release/RevolutionLA/dsh-dream-skin?style=flat-square&label=latest%20release&color=2ea44f)](https://github.com/RevolutionLA/dsh-dream-skin/releases)
-
-</div>
-
 ## 活动 / Activity
 
 <picture>
