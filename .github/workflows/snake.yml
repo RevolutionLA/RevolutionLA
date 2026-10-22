@@ -7,28 +7,46 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      # The bot commit only touches this folder; without the ignore every run
+      # would trigger the next one.
+      - "image/generated/**"
 
 permissions:
   contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "chore(snake): daily contribution grid replay"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit into image/generated on main
+        run: |
+          mkdir -p image/generated
+          cp dist/snake.svg dist/snake-dark.svg image/generated/
+          if git diff --quiet -- image/generated; then
+            echo "no change today"
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add image/generated
+          git commit -m "chore(snake): refresh contribution grid replay [skip ci]"
+          git push origin main
